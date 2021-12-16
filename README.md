@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkiHawasaki and I#m studying Computer Science in Germany.
+- 👋 Hi, I’m @AkiHawasaki and I'm studying Computer Science in Germany.
 - 👀 I’m interested in Programming, education and experience.
 - 🌱 I’m currently learning C# and C.
 - 💞️ I’m looking to collaborate on ...
